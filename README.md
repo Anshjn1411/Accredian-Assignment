@@ -85,7 +85,7 @@ A pixel-accurate recreation of the [Accredian Enterprise](https://enterprise.acc
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Anshjn1411/Accredian-Assignment.git
-cd accredian-enterprise-clone
+cd Accredian-Assignment
 
 # 2. Install dependencies
 npm install
