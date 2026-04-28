@@ -84,7 +84,7 @@ A pixel-accurate recreation of the [Accredian Enterprise](https://enterprise.acc
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/accredian-enterprise-clone.git
+git clone https://github.com/Anshjn1411/Accredian-Assignment.git
 cd accredian-enterprise-clone
 
 # 2. Install dependencies
@@ -107,10 +107,7 @@ npm start
 ### Deploy to Vercel
 
 ```bash
-# Using Vercel CLI
-npx vercel
-
-# Or connect your GitHub repository to Vercel Dashboard
+url:- https://accredian-assignment-lilac.vercel.app/
 ```
 
 ---
