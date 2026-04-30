@@ -11,7 +11,7 @@ A pixel-accurate recreation of the [Accredian Enterprise](https://enterprise.acc
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Site](https://your-deployment-url.vercel.app)**
+🔗 **[View Live Site]([https://your-deployment-url.vercel.app](https://accredian-assignment-lilac.vercel.app/))**
 
 ---
 
